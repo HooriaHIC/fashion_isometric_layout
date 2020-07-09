@@ -1,2 +1,2 @@
 # fashion isometric layout
- live at: fashionisometriclayout.github.io
+ live at: https://hooriahic.github.io/fashion_isometric_layout/
